@@ -55,7 +55,7 @@ Each card contains details such as:
 #### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/flutter-card-showcase.git](https://github.com/tiwarisrikanth/MTouch-task)
+   git clone (https://github.com/tiwarisrikanth/MTouch-task)
    ```
 2. Navigate to the project directory:
    ```bash
