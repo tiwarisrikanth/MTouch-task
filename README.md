@@ -59,7 +59,7 @@ Each card contains details such as:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd flutter-card-showcase
+   cd MTouch-task
    ```
 3. Get the dependencies:
    ```bash
